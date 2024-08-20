@@ -1,0 +1,2 @@
+# Multiclass-Segmentation-of-Fundus-Image-using-U-net-Architecture
+Developed a U-Net model for multiclass segmentation of fundus images, focusing on optic disc and cup segmentation. Enhanced model accuracy through advanced preprocessing and augmentation techniques, achieving precise boundary detection. Applied the model to glaucoma detection, aiding in early diagnosis and improved patient outcomes.
